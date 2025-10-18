@@ -1,4 +1,4 @@
-# codex.windows
+# Codex Desktop for Windows
 
 ## Reference
 
