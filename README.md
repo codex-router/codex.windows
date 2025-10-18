@@ -1,4 +1,4 @@
-# codex.desktop
+# codex.windows
 
 ## Reference
 
